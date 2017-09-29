@@ -9,7 +9,7 @@ public class DeteNit extends Thread {
 	public DeteNit(String ime) {
 		this.ime = ime;
 	}
-
+nada
 	@Override
 	public void run() {
 
